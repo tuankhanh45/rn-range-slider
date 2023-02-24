@@ -18,8 +18,8 @@ You can find the version 1 [here](https://github.com/githuboftigran/rn-range-sli
 
 ## Installation
 
-* npm: `npm install --save rn-range-slider`
-* yarn: `yarn add rn-range-slider`
+* npm: `npm install --save tuankhanh45/rn-range-slider`
+* yarn: `yarn add tuankhanh45/rn-range-slider`
 
 ## Usage
 
